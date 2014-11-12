@@ -1,5 +1,5 @@
-bgdiscover-121LR
-================
+bitstorm-bgdiscover-121LR
+=========================
 
 Bluetooth LE discovery script for a Bluegiga BLE121LR.
 
